@@ -33,4 +33,4 @@ make sure the path to your output_colors folder is correct.)
 
 And that's it!
 
-Project Demo vid: 
+Project Demo vid: https://www.youtube.com/watch?v=P1OzWXusJnc&ab_channel=YashBangera
